@@ -8,13 +8,13 @@ export default defineUserConfig({
   locales: {
     "/": {
       lang: "zh-CN",
-      title: "ClassIsland 文档",
-      description: "ClassIsland 的文档",
+      title: "ExamAware 文档",
+      description: "ExamAware 的文档",
     },
     "/en-us/": {
       lang: "en-US",
-      title: "ClassIsland Documentation",
-      description: "documentation of ClassIsland",
+      title: "ExamAware Documentation",
+      description: "documentation of ExamAware",
     },
   },
   theme

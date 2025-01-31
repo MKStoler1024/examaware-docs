@@ -6,13 +6,13 @@ export default hopeTheme({
   hostname: "https://docs.classisland.tech",
 
   author: {
-    name: "ClassIsland 社区",
-    url: "https://classisland.tech",
+    name: "ExamAware 社区",
+    url: "https://github.com/orgs/ExamAware/discussions",
   },
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "https://res.classisland.tech/logo.svg",
+  logo: "https://avatars.githubusercontent.com/u/195304368?s=200&v=4",
 
   repo: "ClassIsland/classisland-docs-next",
 
@@ -38,11 +38,8 @@ export default hopeTheme({
       sidebar: zhSidebar,
 
       //  autocorrect-disable
-      footer: "Copyright (c) 2024 ClassIsland | " +
-          '本文档以 CC BY-NC-SA 4.0 许可协议授权。' + 
-          '<br/>' +
-          '<a href="https://beian.miit.gov.cn/" target="_blank"> 沪ICP备2024084943号</a> | ' +
-          '<img src="https://www.beian.gov.cn/img/new/gongan.png" > <a href="https://beian.mps.gov.cn/#/query/webSearch" target="_blank"> 沪公网安备31012002006157号 </a>',
+      footer: "Copyright (c) 2024 ExamAware | " +
+          '本文档以 CC BY-NC-SA 4.0 许可协议授权。',
       //  autocorrect-enable
 
       displayFooter: true,

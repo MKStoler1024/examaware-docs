@@ -2,7 +2,7 @@
 home: true
 icon: home
 title: 首页
-heroImage: https://res.classisland.tech/logo.svg
+heroImage: https://avatars.githubusercontent.com/u/195304368?s=200&v=4
 heroImageStyle:
   scale: 0.75
 # bgImage: 
